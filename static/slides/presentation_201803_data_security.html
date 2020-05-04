@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Digital Research Conversations: How to do Digital Research Without Data Security</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+      }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+ 	  .footnote {
+        position: absolute;
+        bottom: 3em;
+        font-size: small;
+    	}
+      .red { color: #fa0000; } 
+       /* Two-column layout */
+      .left-column {
+        width: 50%;
+        float: left;
+      }
+      .right-column {
+        width: 49%;
+        float: right;
+        padding-top: 0em;
+        margin-top: 0em;
+        text-align: left;
+      }       	
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle
+
+# Jeremy Kidwell
+## University of Birmingham, School of Philosophy, Theology and Religion
+### "How to do Digital Research Without Data Security?"
+
+14 Mar 2018
+Digital Research Conversations
+
+.footnote[Email: [j.kidwell@bham.ac.uk](mailto:j.kidwell@bham.ac.uk) • Twitter [@kidwellj](https://twitter.com/kidwellj)]
+
+???
+
+Engineered to use remark: https://github.com/gnab/remark/wiki
+
+---
+
+class: center, middle
+
+Why do we need data security?
+
+---
+
+# Let's review!
+
+### Major Data breaches in 2017, [compliments of wikipedia](https://en.wikipedia.org/wiki/List_of_data_breaches):
+(at least, the ones we know about)
+
+Uber - 57,000,000 records
+Heathrow Airport - 2.5 gigabytes
+Deloitte
+Equifax - 143,000,000 records
+
+Also: The Pizza Hut app, Sonic Drive-In, HBO (internal documents), Ethereum Cryptocurrency, USA Nuclear Power Plants, Petya and WannaCry ransomware (Honda factory in Japan and traffic cameras in Australia), Disney, Emmanuel Macron, CNN...
+
+---
+
+### Major University Data breaches in 2016 ([the Rasputin SQLi hack](https://www.recordedfuture.com/recent-rasputin-activity/))
+
+- University of Cambridge
+- University of Oxford
+- Architectural Association School of Architecture
+- University of Chester
+- University of Leeds
+- Coleg Gwent
+- University of Glasgow
+- University of the Highlands and Islands
+- University of the West of England
+- The University of Edinburgh
+
+---
+
+class: center, middle
+
+### As researchers, we help ".red[vulnerable people]" tell their stories.
+
+---
+
+class: center, middle
+
+## We do this, in part by anonymising our data sets.
+
+---
+
+class: middle
+
+### But does "anonymised" data stay that way?
+
+See deanonymising studies:
+- [Melissa Gymrek, Amy L. McGuire, David Golan, Eran Halperin, Yaniv Erlich, "Identifying Personal Genomes by Surname Inference"](http://science.sciencemag.org/content/339/6117/321) (on anonymised human genome data sets)
+- Arvind Narayanan and Vitaly Shmatikov, ["Robust De-anonymization of Large Sparse Datasets"](http://www.cs.utexas.edu/~shmat/shmat_oak08netflix.pdf) (on anonymisedNetflix subscriber data)
+- Yves-Alexandre de Montjoye, César A. Hidalgo, Michel Verleysen and Vincent D. Blondel, ["Unique in the Crowd: The privacy bounds of human mobility"](https://www.nature.com/articles/srep01376) (cell phone subscriber data)
+
+---
+
+class: center, middle
+
+## No.
+
+Given the availability of other data streams for cross-referencing, it is possible, even likely that a motivated agent could de-anonymise your data.
+
+---
+
+class: center, middle
+
+### Counterproductive option #1
+
+Let's just destroy our data. 
+
+---
+
+### This is a terrible idea:
+
+- Destroyed data prevents (social)scientific studies from bing tested or reproduced
+
+- Destroyed data prevents biographers and historians from illuminating the contexts of cultural studies
+
+---
+
+### Example of Franz Boas, George Hunt, and the Hunt family
+
+[See write-up on Anthrodendum Blog](https://anthrodendum.org/2018/02/15/this-anthropology-day-lets-remember-george-hunt/)
+
+Boas, (co-author with Hunt) of The Mind of Primitive Man (1911)
+
+> I hope the discussions outlined in these pages have shown that the data of anthropology teach us a greater tolerance of forms of civilization different from our own, that we should learn to look on foreign races with greater sympathy and with a conviction that, as all races have contributed in the past to cultural progress in one way or another, so they will be capable of advancing the interests of mankind if we are only willing to give them a fair opportunity.
+
+Subsequent studies of Boaz's correspondence and field notes have enabled contemporary researchers to reach some startling conclusions.
+
+*Almost 100 years later.*
+
+---
+
+# Let's recap:
+
+1. We need to preserve data. For a long time.
+
+2. This data is increasingy digital. 
+
+3. The digital space is increasingly susceptible to hacking.
+
+4. Even anonymised data may be subject to deanonmisation. 
+
+5. Conclusion: we need to secure our data. .red[*]
+
+
+.footnote[.red[*] Sysadmins take note: The solution to this is NOT to require users to change their passwords every six months. NIST Special Publication 800-63. Appendix A. [has been revised](https://www.nist.gov/itl/tig/projects/special-publication-800-63)!]
+
+---
+
+# Brief Coda
+
+## But, do we need to secure our data?
+
+The crisis of data security provides a good opportunity to consider new ways of conducting research.
+
+Projects which are open and transparent from the start do not need to be locked in a "digital safe".red[*]
+
+### Might we also consider reproducible open research?
+
+See here, for a rough example: [https://github.com/kidwellj/mapping_environmental_action](https://github.com/kidwellj/mapping_environmental_action)
+
+### As well as co-produced research? 
+
+[See here](http://blogs.lse.ac.uk/impactofsocialsciences/2012/09/28/collaborating-with-academics-hayman/)? and [here](https://www.theguardian.com/higher-education-network/blog/2012/jul/18/politics-coproduction-research-academics-practitioners)
+
+.footnote[.red[*] Caveat: to be fair, data produced by fully open co-produced participatory projects will still need to be secured against tampering. And there will remain some studies which simply require anonymity and distance.]
+
+---
+
+Let's discuss!
+
+---
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>

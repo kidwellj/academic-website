@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>“Mapping” Religious Communities in the UK: Borders, Boundaries and Big Data</title>
+    <meta charset="utf-8">
+    <style>
+      @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+      @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic);
+      @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+
+      body { font-family: 'Droid Serif'; }
+      h1, h2, h3 {
+        font-family: 'Yanone Kaffeesatz';
+        font-weight: normal;
+        }
+      .small {
+        font-size: small;
+      }
+      .verysmall {
+        font-size: xx-small;
+        }
+      .verysmall li {
+        padding:0; margin:0;
+        }
+      .inverse {
+        color: white;
+        text-shadow: 0 0 12px black;
+        }
+      .inverse h1, .inverse h2 .inverse h3 .inverse h4 .inverse a {
+        color: #000000;
+        line-height: 0.8em;
+        }
+      .remark-code, .remark-inline-code { font-family: 'Ubuntu Mono'; }
+      .footnote {
+        position: absolute;
+        bottom: 3em;
+        font-size: small;
+        }
+      .red { color: #fa0000; } 
+       /* Two-column layout */
+      .strikethrough {
+        text-decoration: line-through;
+        }
+      .left-column {
+        width: 50%;
+        float: left;
+        }
+      .right-column {
+        width: 49%;
+        float: right;
+        padding-top: 0em;
+        margin-top: 0em;
+        text-align: left;
+        }         
+    </style>
+  </head>
+  <body>
+    <textarea id="source">
+
+class: center, middle, inverse
+background-image: url(images/dots.png)
+
+## “Mapping” Religious Communities in the UK: 
+
+### Borders, Boundaries and Big Data
+
+#### University of Birmingham **School of Philosophy, Theology and Religion**
+
+### 002018 Sep 04
+
+.footnote[Email: j.kidwell@bham.ac.uk • Twitter @kidwellj]
+
+---
+
+class: center, middle
+
+# Geospatial data is important.
+
+???
+In the next 4:50 I want to try to convince you that scholars of Religion in Europe should engage with geospatial data in their research. I'll start with a big undefended claim, briskly diagnose the problems with our geospatial data and offer a possible solution.
+
+---
+
+class: center, middle
+
+{Prove it}
+
+???
+Part of the reason I became aware of this is because I started my journey as a researcher in Scotland. I quickly became aware that within the context of sociological and geographical study of the UK my colleagues in Edinburgh were not enthusiastic about being socially conflated with people who lived in London. But this happens *all the time*. I've come to discover that this sentiment is shared by people in Wales and Ireland and the North of England, and the West Midlands, and well, you get the idea.
+
+---
+
+class: center, middle
+
+### *the "critical theory" problem:*
+
+## Our national sociologies don't account for *terrain*
+
+.left[“Prophecy now involves a geographical rather than a historical projection; it is space and not time that hides consequences from us. To prophesy today it is only necessary to know men [and women] as they are throughout the world in all their inequality.”]
+
+.footnote[.red[*]John Berger cited in Edward Soja, *Postmodern Geographies*]
+
+???
+Here's the big undefended claim: I believe that if we do not observe the particularities of peoples and their places, in practice, our research can be an instrument of concealment and the agent of social invisibility. Here's how this works in practice: say you've got a few thousand pounds and want to run a National-level study. Chances are, you'll take your money to a professional statistical organisation like YouGov and commission a study based on a random sample. Now here's where it gets sticky. Try asking YouGov (or whomever) whether they can generate a random sample of UK persons which will allow for data to be reliably broken down to the level of council areas in Scotland, and then by gender and age. I've asked, and they said "no"
+
+---
+
+class: center, middle
+
+*a big undefended claim:*
+
+### If we do not observe the particularities of peoples and their places, in practice, our research can be an instrument of concealment and the agent of social invisibility.
+
+???
+Regional thinking, which is just a scholarly formalisation of administrative boundaries doesn't necessarily get us much further towards granular understandings of daily life and religion in practice. The small, hyper-local work of social anthropologists commends much closer scrutiny.
+
+---
+
+class: center, middle
+
+*a practical problem:*
+## Google tells us that they have all the data.
+
+and we believe them.
+
+---
+
+class: center, middle
+
+## But they don't.
+
+communities are (weirdly) hard to find.
+
+???
+Many people here are doing small-scale local ethnographic work with individuals. And this gets towards addressing the problem, though we don't often enough join up individual studies towards well-qualified meta-understandings (topic for another day!). But I want to suggest that we might consider stepping one level up from the level of the individual and focussing on communities - and in the case of the study of religion, at least one facet of studying communities is to focus on places of worship. And I want to use my remaining 3 minutes to suggest what might be involved if we were to try to build some resources to support this kind of research.
+
+---
+
+class: center, middle
+
+## We discovered this (by accident) on a four-year study of Eco-Congregation Scotland (2013-2017)
+
+.left.small[Research outputs for the curious: 
+
+- Jeremy Kidwell, Franklin Ginn, Michael Northcott, Elizabeth Bomberg, Alice Hague, "[Christian climate care: Slow change, modesty and eco-theo-citizenship](https://jeremykidwell.info/files/papers/geo-christian_climate_care.pdf)" (forthcoming), *Geo*
+
+- Elizabeth Bomberg & Alice Hague, "[Faith-based climate action in Christian congregations: mobilisation and spiritual resources](https://www.tandfonline.com/doi/full/10.1080/13549839.2018.1449822)" (2018), *Local Environment*]
+
+---
+
+class: center, middle
+
+## Where is the data on places of worship?
+
+???
+This was a big project with a big team, so it seemed responsible to test out our prospective fieldwork in terms of sampling and representation across standard demographic measures. So I went to the internet to find the data on places of workship in the UK. Turns out there isn't much.
+
+---
+
+class: center, middle
+
+## Major geospatial databases (for Britain):
+
+**Ordnance Survey** (www.ordnancesurvey.co.uk)
+
+**Google maps API** (maps.google.com)
+
+**Open street maps** (openstreetmaps.org)
+
+.center[## ...there are problems with this data.]
+
+---
+
+## Problem 1: Incomplete datasets
+
+(a quick example) 
+
+Mosques and Islamic community centres in Birmingham metro (+50km):
+- According to http://mosques.muslimsinbritain.org: 289
+- According to ordnance survey: 224
+- According to open street maps*: 118
+- .red[According to google maps: 100]
+
+.footnote[*Relevant mythbusting - crowdsourced data is not less accurate that commercially developed data. See:
+
+- Pascal Neis and Alexander Zipf, “Analyzing the contributor activity of a volunteered geographic information project: The case of OpenStreetMap,” *ISPRS International Journal of Geo-Information* 2 (2012): 146–165.
+- Mordechai Haklay, “How good is volunteered geographical information? A comparative study of OpenStreetMap and Ordnance Survey datasets,” *Environment and planning B: Planning and design* 4 (2010): 682--703.]
+
+---
+
+
+## Problem 2: Misleading data
+
+According to .red[Ordnance Survey]:
+
+Of 46,057 places of worship in the UK:
+
+- .red[3584] Methodist churches (*shall we say 4812?*)
+- .red[2476] Catholic Churches (*more like 2855*...)
+- .red[2446] churches designated as “Church of England” (*how about 16k?*)
+- 1692 baptist churches
+
+~.red[30,000] = not categorised (*now that's just confusing*.)
+
+---
+
+# Ordnance Survey
+
+"The PointX product uses multiple organisations and third party data sources in order to create the product, and it seems in this instance you have found accuracy issues.
+ 
+We are always happy to receive this type of information if you are willing to share your findings so we can investigate further internally.".red[*]
+
+.footnote[.red[*]— Ordnance Survey Support]
+
+---
+
+class: center, middle
+
+### Why does it matter?
+
+???
+So why does all this matter? There are two key reasons why scholarly focus on these data sources might align well with our concern for public literacy about religion and frankly justice. First, for many people walking around in Europe, these data sets are reality. When was the last time you navigated somewhere without using a turn-by-turn app on some smartphone? If data is lacking in completeness, these places simply fall off the map. Second, is metadata. While this term may seem fairly innocuous, it can be a very malevolent force. Metadata is simply the practice of adding a bit of additional data to the 'main stuff'. So we have some coordinates and a name for a place of worship, and then maybe we add the opening hours, or we allow people to add ratings, or we add a category.
+
+---
+
+### Exhibit A: Google's religion categories (for the whole world):
+
+- .strikethrough[place of worship]
+- church
+- hindu_temple
+- mosque
+- synagogue
+
+### Exhibit B: Schema.org Microdata Specification 
+
+["developed by an open community process"](https://schema.org/)
+
+Place / CivicStructure / PlaceofWorship subcategories (v3.4):
+
+- BuddhistTemple
+- CatholicChurch
+- Church
+- HinduTemple
+- Mosque
+- Synagogue
+
+???
+These categories produce borders and tacitly facilitate exclusion. Have you ever wondered how google finds content based on a given search you produce?
+
+---
+
+## We can do better
+
+- engage groups at the grassroots
+- use participatory methods
+- produce accurate data
+- integrate spatial methods in sampling
+
+---
+
+## Making a start:
+
+The mapping.community project
+
+- Free access to carto portal for data management, hosted by UOB for practitioner groups: http://carto.mapping.community server
+
+- Accurate geospatial data, generated on participatory basis - participatory geography: collaborating with groups at network level
+
+- 2k community groups (community development trusts, community land, permaculture groups, eco-congregations + eco-churches)
+
+- 34k churches, 1850 mosques and islamic community centres
+  
+  .verysmall[Church of England, Methodist Church, Roman Catholic Church (England & Wales), Church of Scotland, United Reformed Church, Church in Wales, Reedemed Christian Church of God, Salvation Army, Quaker (Religious Society of Friends), Roman Catholic Church (Scotland), Seventh-Day Adventist Church, Spiritualists' National Union, Brethren (Gospel Hall), Scottish Episcopal Church, Baptist Union of Scotland, South Eastern Baptist Association, Greek Orthodox Archdiocese of Thyateira & Great Britain, Evangelical Fellowship of Congregational Churches, The Apostolic Church, Free Church of Scotland, Ground Level, Catalyst Network, Church of the Nazarene: British Isles, Salt and Light Minstries, Pioneer, Church of God of Prophecy, Russian Orthodox Diocese of Sourozh, The Holy Catholic Church (Anglican Rite), Our Lady of Walsingham, United Free Church of Scotland, Baptist Union of Wales, Free Church of Scotland (continuing), Relational Mission, Free Presbyterian Church of Scotland, New Ground]
+
+---
+
+# Join us!
+
+- (soon to be!) available to researchers - fully open-access
+- this study is reproducible - code repository private for now, happy to share on request
+
+find this presentation at: http://bit.ly/jkbasr18
+
+or https://jeremykidwell.info/files/presentations/presentation-20180904-basr.html
+
+---
+
+    </textarea>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+    <script>
+      var slideshow = remark.create();
+    </script>
+  </body>
+</html>
