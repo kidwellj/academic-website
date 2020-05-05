@@ -1,8 +1,16 @@
 ---
 title: "Big Data and Christian Ethics"
 date: 2017-11-08T11:30:00+00:00
-host: "University of Birmingham, Gisbert Kapp N334"
-duration: 7776000
+event: "University of Birmingham, Theology & Religion Seminar"
+event_url:
+location: Gisbert Kapp N334
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country: United Kingdom
+summary: "paper presentation for our departmental seminar"
+authors: ["jeremy"]
+url_slides:
 ---
-
-I presented a paper for our departmental seminar this week. I'll upload the text here a bit later after I've done some revising.

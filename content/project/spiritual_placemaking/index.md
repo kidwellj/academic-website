@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Spiritual_placemaking"
+title: "Spiritual Placemaking"
 summary: ""
 authors: []
 tags: []

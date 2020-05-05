@@ -1,8 +1,17 @@
 ---
-date: 2019-12-10T16:00:00+01:00
 title: "Crafting the Commons network meeting"
-host: "New Art Exchange, Nottingham"
-publishdate: 2019-12-10
+event: 
+location: "New Art Exchange, Nottingham"
+address:
+  street:
+  city: "London"
+  region:
+  postcode:
+  country: "United Kingdom"
+summary: "At the network event, several of us shared a stories about commoning and for my contribution I brought a piece of speculative sci-fi in hopes this might open up some of the issues involved in commons work."
+date: 2019-12-10T16:00:00+01:00
+publishDate: 2020-05-04T19:46:37+01:00
+authors: ["jeremy"]
 ---
 
 I'm delighted to be a participant in the AHRC-funded Crafting the Commons network with a bunch of fantastic scholars, artists, curators and craft practitioners thinking about how this kind of work can create a new commons. At the network event, several of us shared a stories about "commoning" and for my contribution I brought a piece of speculative sci-fi in hopes this might open up some of the issues involved in commons work. Here's my piece (licensed under a [creative commons license](http://creativecommons.org/licenses/by-nc/4.0/)).

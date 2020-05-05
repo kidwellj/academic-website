@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Ecological_reconciliation"
+title: "Ecological Reconciliation"
 summary: ""
 authors: []
 tags: []

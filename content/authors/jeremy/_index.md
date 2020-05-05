@@ -18,7 +18,7 @@ organizations:
   url: "https://www.birmingham.ac.uk/staff/profiles/tr/kidwell-jeremy.aspx"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Scholar, hacker, activist, ethnographer, ethicist and eco-theologian. Interdisciplinary and unafraid.
+bio: Ethicist, activist, hacker, ethnographer and eco-theologian. Interdisciplinary and unafraid.
 #interests:
 #- Artificial Intelligence
 #- Computational Linguistics
@@ -64,16 +64,15 @@ social:
   link: http://orcid.org/0000-0001-5954-4246
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "j.kidwell@bham.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
-I am an interdisciplinary scholar, trained in ethics and constructive theology based in the [School of Philosophy, Theology and Religion](http://www.birmingham.ac.uk/schools/ptr/index.aspx) at the [University of Birmingham](http://www.birmingham.ac.uk/). I give regular [talks, workshops, and seminars](talks/) on topics like [climate change](project/religionecology/), data ethics, and design. Being skeptical about the efficacy of capitalism, I am working hard to rehabilitate the commons - and am an advocate for open source, open data, and open educational resources.
+I am an interdisciplinary scholar, trained in ethics and constructive theology based in the [School of Philosophy, Theology and Religion](http://www.birmingham.ac.uk/schools/ptr/index.aspx) at the [University of Birmingham](http://www.birmingham.ac.uk/). I give regular [talks, workshops, and seminars](talks/) on topics like [climate change](summary_env_writing/), data ethics, and design. I am passionate about building the commons - and am an advocate for open source, open data, and open educational resources.
 
-In my [research](?), I confront the ecological crisis by interrogating the ethical issues that lie at the intersection of “nature” and “culture” ranging from ecological ethics, activist studies, religious conceptions of labour and the philosophy of technology. I work in the mode of a field philosopher allowing an ethnographic and quantitatively generated understanding of grassroots problems and interests to illuminate my constructive ethical reflections
-
+In my [research](publication/), I confront the ecological crisis by interrogating the ethical issues that lie at the intersection of “nature” and “culture” ranging from ecological ethics, activist studies, religious conceptions of labour and the philosophy of technology. I work in the mode of a field philosopher allowing an ethnographic and quantitatively generated understanding of grassroots problems and interests to illuminate my constructive ethical reflections.

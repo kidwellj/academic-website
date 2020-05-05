@@ -1,8 +1,16 @@
 ---
-title: "Kirby-Laing 10th Aniversary Celebration: The Future of Christian Ethics"
+title: "Panelist: The Future of Christian Ethics"
 date: 2017-09-20T18:00:00+00:00
-host: "London Institute for Contemporary Christianity"
-duration: 7776000
+event: "Kirby-Laing 10th Aniversary Celebration"
+event_url:
+location: "London Institute for Contemporary Christianity"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country: United Kingdom
+summary: "panelist on the 'future of Christian Ethics' as part of an event by KLICE celebrating their 10th anniversary and looking ahead to what's next"
+authors: ["jeremy"]
+url_slides:
 ---
-
-I served as part of a panel on the future of Christian Ethics as part of a terrific event by KLICE celebrating their 10th anniversary and looking ahead to what's next.

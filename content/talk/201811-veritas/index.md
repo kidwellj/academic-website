@@ -1,8 +1,18 @@
 ---
 date: 2018-11-15T15:30:00+00:00
 title: "Three Faiths: One Question - Why do good people do bad things? (Panelist)"
-host: "Veritas Forum, Birmingham"
 publishdate: 2018-11-15
+event: "Veritas Forum"
+event_url:
+location: "University of Birmingham"
+address:
+  street: 
+  city: Birmingham
+  region:
+  postcode:
+  country: United Kingdom
+summary: "I served as a panelist for this (first) interfaith veritas forum"
+authors: ["jeremy"]
 ---
 
 Three Faiths: One Question

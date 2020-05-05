@@ -1,17 +1,23 @@
 ---
 title: "What is the temporality of climate change activism"
 date: 2018-04-19T16:00:00+00:00
-host: "University of Leeds"
-duration: 7776000
+event: "forum on Religion and Climate Change Adaptation at the University of Leeds"
+event_url: https://religioninpublic.wordpress.com/2018/03/09/crpl-research-day-religion-and-climate-change-adaptation-resilience-or-resistance/
+location: "University of Leeds"
+address:
+  street: "Hillary Place G.18"
+  city:
+  region:
+  postcode:
+  country: United Kingdom
+summary: 
+authors: ["jeremy"]
+url_slides:
 ---
-
-I'm really pleased to be contributing to this forum on Religion and Climate Change Adaptation at the University of Leeds (Hillary Place G.18, University of leeds) on Thursday 19 April 2018 from 2-5pm. 
 
 My paper/presentation will be titled "What is the temporality of climate change activism - some reflections on place attachment and the politics of nostalgia"
 
-<!--more-->
-
-Here's the [official blurb](https://religioninpublic.wordpress.com/2018/03/09/crpl-research-day-religion-and-climate-change-adaptation-resilience-or-resistance/) including my own preentation:
+Panel details are as follows:
 
 Thursday 19 April 2018, 2-5pm
 

@@ -1,7 +1,7 @@
 +++
 title = "Changing Uses of Old and New Media in World Christianity"
 authors = ["Jolyon Mitchell", "jeremy"]
-date = 2020-05-04T00:00:00.000Z
+date = 2016-03-25
 doi = "10.1002/9781118556115.ch31"
 publishDate = 2020-05-04T08:22:01.000Z
 publication_types = ["6"]

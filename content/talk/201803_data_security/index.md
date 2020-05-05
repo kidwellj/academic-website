@@ -1,15 +1,22 @@
 ---
 date: 2018-03-14T12:00:00+01:00
 title: "Digital Research Conversations: Security"
-host: "Birmingham Environment for Academic Research"
 publishdate: 2017-03-10
+event: "Birmingham Environment for Academic Research Forum"
+event_url:
+location: 
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country: United Kingdom
+summary: 
+authors: ["jeremy"]
+url_slides: slides/presentation_201803_data_security.html
 ---
 
-I'll be presenting as part of a panel on digital security and scholarly research this March as part of a series Birmingha Uni's BEAR group has been hosting on "Digital Research Conversations." I'll be presenting from 12:35-12:50. You can get [tickets here.](https://www.eventbrite.com/e/digital-research-conversations-data-security-peeping-through-the-great-digital-wall-tickets-42452940889).
-
-You can view my [slides for the presentation here:](https://jeremykidwell.info/files/presentations/presentation_201803_data_security.html)
-
-<!--more-->
+I'll be presenting as part of a panel on digital security and scholarly research this March as part of a series Birmingham University's BEAR group has been hosting on "Digital Research Conversations." I'll be presenting from 12:35-12:50. You can get [tickets here.](https://www.eventbrite.com/e/digital-research-conversations-data-security-peeping-through-the-great-digital-wall-tickets-42452940889).
 
 Slido for Q&A for the session [is here:](https://app.sli.do/event/qxi2apio) (event code: 7088).
 

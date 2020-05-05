@@ -1,12 +1,16 @@
 ---
-title: "Employability Forum for Academic Partners"
+title: "Work integrated learning on an undergraduate module"
 date: 2017-09-13T11:30:00+00:00
-host: "University of Birmingham"
-duration: 7776000
+event: "Employability Forum for Academic Partners"
+event_url:
+location: "University of Birmingham"
+address:
+  street:
+  city:
+  region:
+  postcode:
+  country: United Kingdom
+summary: "presentation for colleagues on some work we've done enhancing my course Religion in the Public Sphere to create student projects that involve work with local employers, charities, etc."
+authors: ["jeremy"]
+url_slides: slides/presentation_20170913_ employability.html
 ---
-
-I'm presenting for colleagues on some work we've done enhancing my course "Religion in the Public Sphere" to create student projects that involve work with local employers, charities, etc. It's very exciting stuff. Slides below for the curious:
-
-<!--more-->
-
-My slides (which used [http://lab.hakim.se/reveal-js/#/](reveal.js)) are [available here](https://jeremykidwell.info/files/presentations/presentation_20170913_ employability.html")

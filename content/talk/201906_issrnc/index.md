@@ -1,8 +1,18 @@
 ---
 date: 2019-06-150T16:00:00+01:00
-title: "Extinction & Religion: Disappearance, Reap- pearance, and Novel Productions"
-host: "International Society for the Study of Religion, Nature, and Culture"
+title: "Extinction & Religion: Disappearance, Reappearance, and Novel Productions"
 publishdate: 2019-06-15
+event: "International Society for the Study of Religion, Nature, and Culture 2019 Conference"
+event_url:
+location: 
+address:
+  street:
+  city: Cork
+  region:
+  postcode:
+  country: Ireland
+summary: "A vignette paper presented at the ISSRNC conference"
+authors: ["jeremy"]
 ---
 
 My introduction...
