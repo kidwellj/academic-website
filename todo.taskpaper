@@ -1,17 +1,13 @@
 todo:
 
-- Finish https://sourcethemes.com/academic/docs/get-started/
-- Edit content/projects/projects.md
-- Populate individual directories under project/* with index.md and featured.jpg
-- Convert content/publication/* to proper format
-- Convert content/talk/* to proper format (index.md file within folder using name + optional featured.jpg and others)
-- Edit files in contact/*
-- Populate post/* directory with news updates
-- Generate pages directory, and populate with longer blog posts
-- Edit archetypes/post/index.md
-- Tweak config/_default/menus.toml
-- Populate static/pdf/* with file attachments, change paths (based on URL and short path) on content entries
-- Populate static/slides/* with slides, change paths (based on URL and short path) on content entries
-
-For later:
-- add custom font
+- Source and add images to `/projects/*` 
+- Edit `content/projects/projects.md` to create landing pages for individual projects
+- Add widgets to include
+- Edit archetypes/post/index.md etc.
+- Backfill pre-2017 talks with slides attached
+- Assign projects to talks and publications
+- Assign categories to talks and publications
+- Assign tags to talks and publications
+- Add Chicago style citation parser (CSL?)
+- customise font
+- Create custom nested pages
