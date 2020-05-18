@@ -1,3 +1,9 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
+[submodule "content/teaching/guidance/faq_ug_diss"]
+	path = content/teaching/guidance/faq_ug_diss
+	url = https://gitea.sailf.in/kidwellj/faq_ug_diss.git
+[submodule "content/teaching/guidance/reference_letter_policy"]
+	path = content/teaching/guidance/reference_letter_policy
+	url = https://gitea.sailf.in/kidwellj/reference_letter_policy.git
