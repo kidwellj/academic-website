@@ -7,3 +7,6 @@
 [submodule "content/teaching/guidance/reference_letter_policy"]
 	path = content/teaching/guidance/reference_letter_policy
 	url = https://gitea.sailf.in/kidwellj/reference_letter_policy.git
+[submodule "content/teaching/guidance/communication_policy"]
+	path = content/teaching/guidance/communication_policy
+	url = https://gitea.sailf.in/kidwellj/communication_policy.git
