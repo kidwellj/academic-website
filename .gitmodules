@@ -13,3 +13,6 @@
 [submodule "content/teaching/guidance/communication_policy"]
 	path = content/teaching/guidance/communication_policy
 	url = https://gitea.sailf.in/kidwellj/communication_policy.git
+[submodule "static/slides/presentation_201902_mobilisingchurches"]
+        path = static/slides/presentation_201902_mobilisingchurches
+        url = https://gitea.sailf.in/kidwellj/presentation_201902_mobilisingchurches.git
