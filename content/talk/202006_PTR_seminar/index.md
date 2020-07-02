@@ -1,20 +1,20 @@
 ---
-title: "Contemplating Climate Change"
-event: "Lent Lecture Series"
+title: "Beyond Slow Food and Fast Change: Reconceptualising our Relationship to the Other-than-Human in Time"
+event: "Theology & Religion Online Seminar Series"
 event_url:
-location: Lichfield Cathedral
+location: The Interwebs
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: "I'll be presenting an evening lecture as part of the Lichfield cathedral Lenten lecture series this year."
+summary: "I'll be presenting a seminar paper drawing on my most recent sabbatical research."
 abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-04-01T16:00:00+01:00
+date: 2020-06-017T14:00:00+01:00
 # date_end: 2020-07-06T18:00:00+01:00
 all_day: false
 
@@ -25,7 +25,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -44,7 +44,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: "slides/presentation_20200617_tandrseminarpaper_handout.pdf"
 
 url_code:
 url_pdf:
