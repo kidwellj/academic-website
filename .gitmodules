@@ -4,6 +4,9 @@
 [submodule "content/teaching/guidance/faq_ug_diss"]
 	path = content/teaching/guidance/faq_ug_diss
 	url = https://gitea.sailf.in/kidwellj/faq_ug_diss.git
+[submodule "static/i-stand"]
+	path = static/i-stand
+	url = https://github.com/kidwellj/i-stand.git
 [submodule "content/teaching/guidance/reference_letter_policy"]
 	path = content/teaching/guidance/reference_letter_policy
 	url = https://gitea.sailf.in/kidwellj/reference_letter_policy.git
