@@ -9,6 +9,6 @@ address:
   region:
   postcode:
   country: "United Kingdom"
-summary: "This presentation, drawing on past research, outlined some options for a steering group which manages the Birmingham Faiths Map. Slides can be accessed here: [https://jeremykidwell.info/slides/presentation-20210907-brum_church_mapping]"
+summary: "This presentation, drawing on past research, outlined some options for a steering group which manages the Birmingham Faiths Map. [Slides can be accessed here.](https://jeremykidwell.info/slides/presentation-20210907-brum_church_mapping)"
 ---
 

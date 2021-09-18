@@ -9,6 +9,6 @@ address:
   region:
   postcode:
   country: "United Kingdom"
-summary: "Political Theology/Theologies of Politics workshop series. Slides are here: [https://jeremykidwell.info/slides/presentation-20210611-goldsmiths/keynote.pdf]"
+summary: "Political Theology/Theologies of Politics workshop series. [Slides are here](https://jeremykidwell.info/slides/presentation-20210611-goldsmiths/keynote.pdf)."
 ---
 
