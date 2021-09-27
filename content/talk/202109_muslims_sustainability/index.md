@@ -1,7 +1,7 @@
 ---
 date: 2021-09-27T11:00:00+01:00
-title: "Why I *Started* Talking to White People - in environmental groups - About Race"
-location: "Panel at "How Muslims in Britain engage with, and understand, environmental sustainability workshop"
+title: "Why I Started Talking to White People in environmental groups About Race"
+location: "Panelist at, 'How Muslims in Britain engage with, and understand, environmental sustainability workshop'"
 publishDate: 2020-05-04T19:46:37+01:00
 address:
   street:
