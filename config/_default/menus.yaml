@@ -1,0 +1,45 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: '#about'
+    weight: 10
+#  - name: News
+#    url: '#news'
+#    weight: 20
+  - name: Projects
+    url: '#projects'
+    weight: 30
+  - name: Publications
+    url: 'publication/'
+    weight: 40
+  - name: Talks & Seminars
+    url: '#talks'
+    weight: 45
+  - name: Students
+    url: students/
+    weight: 50
+#  - name: Contact
+#    url: '#contact'
+#    weight: 55
+  - name: Blog
+    url: 'https://blog.jeremykidwell.info/'
+    weight: 60
+  - name: Code
+    url: 'https://gitea.sailf.in/kidwellj'
+    weight: 70
+  - name: Data
+    url: 'https://zenodo.org/search?q=metadata.creators.person_or_org.name%3A%22Kidwell%2C%20Jeremy%22&l=list&p=1&s=20'
+    weight: 80
+
+
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
