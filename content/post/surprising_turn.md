@@ -1,9 +1,0 @@
----
-author: "jeremy"
-date: "2014-09-06"
-title: When a surprising turn occurs
----
-
-"It is pertinent to see that in a world of becoming this or that force-field can go through a long period of relative equilibrium, or even gradual progression as defined by standards extrapolated from that equilibrium. Much of social thought and political theory takes such periods as the base from which to define time and progress themselves, making the practitioners all the more disoriented when a surprising turn occurs, that is, when a period of intense disequilibrium issues in a new plateau that scrambles the old sense of progress and regress in this or that way. There may be long chrono-periods of relative stabilization in several zones that matter to human participants, but during a time of accelerated disequilibrium the ethico-politics of judgment through extrapolation from the recent past to the medium or distant future becomes rattled or breaks down. It is now time to modify old extrapolations of possibility and desirability. During such periods Kantian and neoKantian ideas of the universal are retrospectively shown to have been filled with more material from a historically specific mode of common sense than their carriers had imagined. The Augustinian-Kantian sense that human beings are unique agents in the world, while the rest of the world must be comprehended through non-agentic patterns of causality, may turn out to be one of them. To the extent this idea takes hold, established notions of the human science and morality become ripe candidates for reconstitution."
-
-WE Connolly, A World of Becoming (Duke UP, 2010), 150.

@@ -1,20 +1,11 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "The Righteousness of Industrialism: Understanding the Legacy Behind The Present Moment in Technological Ethics"
 authors: ["jeremy"]
 date: 2011-06-15
 doi: ""
-
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-05-04T10:45:13+01:00
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["0"]
-
+publication_types: ["chapter"]
 # Publication name and optional abbreviated publication name.
 publication: ""
 publication_short: ""
@@ -36,7 +27,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "pdf/righteousness_industrialism.pdf"
+url_pdf:
 url_code:
 url_dataset:
 url_poster:

@@ -5,6 +5,9 @@ title: "Mapping the Field of Religious Environmental Politics"
 authors: ["jeremy"]
 date: 2020-03-01
 doi: "10.1093/ia/iiz255"
+tags:
+ - inclusive environmentalism
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-05-04T19:12:07+01:00
@@ -13,7 +16,7 @@ publishDate: 2020-05-04T19:12:07+01:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*International Affairs*"
@@ -26,7 +29,7 @@ summary: "I probe the complexities of political engagement with religious enviro
 
 # tags: ["religious environmental movements"]
 categories: []
-featured: false
+featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

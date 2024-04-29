@@ -3,7 +3,7 @@ title: "Theology and Economics: A Christian Vision of the Common Good"
 date: 2015-01-01
 publishDate: 2020-05-03T19:08:46.341605Z
 authors: ["jeremy", "Sean Doherty"]
-publication_types: ["5"]
+publication_types: ["book"]
 abstract: ""
 featured: false
 ---

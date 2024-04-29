@@ -10,10 +10,12 @@ doi: "10.1163/15685357-02603003"
 publishDate: 2022-10-04T19:12:07+01:00
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+# https://docs.citationstyles.org/en/stable/specification.html#appendix-iii-types
+# Options include, article, book, article-journal, article-magazine, chapter, dataset, post, post-weblog, report
+# If a container-title is present, the item is interpreted as a chapter contained within a larger report
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Worldviews*"

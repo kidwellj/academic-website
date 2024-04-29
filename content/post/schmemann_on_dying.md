@@ -1,9 +1,0 @@
----
-author: "jeremy"
-date: "2014-05-20"
-title: Fr Schmemann on Dying
----
-
-This morning during Matins I had a “jolt of happiness,” of fullness of life, and at the same time the thought: I will have to die! But in such a fleeting breath of happiness, time usually “gathers” itself. In an instant, not only are all such breaths of happiness remembered but they are present and alive— that Holy Saturday in Paris when I was a young man—and many such “breaks.” It seems to me that eternity might be not the stopping of time, but precisely its resurrection and gathering. The fragmentation of time, its division, is the fall of eternity. Maybe the words of Christ are about time when He said: “... not to destroy anything but will raise it all on the last day.” The thirst for solitude, peace, freedom, is thirst for the liberation of time from cumbersome dead bodies, from hustle; thirst for the transformation of time into what it should be—the receptacle, the chalice of eternity. Liturgy is the conversion of time, its filling with eternity. There are two irreconcilable types of spirituality: one that strives to liberate man from time (Buddhism, Hinduism, Nirvana, etc.); the other that strives to liberate time. In genuine eternity, all is alive. The limit and the fullness: the whole of time, the whole of life is in each moment. But there is also the perpetual problem: What about the evil moments? Evil time? The terrible fear before dying of the drowning man, of the man falling from the tenth floor about to be crushed on the pavement? What about the tears of an abused child?
-
-From The Journals of Father Alexander Schmemann 1973—1983, p. 78. Cited in Gallaher, Chalice of eternity: an Orthodox theology of time, St Vladimir's Theological Quarterly 57:1, 5-35 (2013).

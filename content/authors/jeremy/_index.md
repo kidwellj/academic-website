@@ -20,9 +20,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Ethicist, activist, hacker, ethnographer and eco-theologian. Interdisciplinary and unafraid.
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
 
 education:
   courses:
@@ -41,9 +38,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: paper-plane
-  icon_pack: fas
-  link: '/contact'
+# - icon: paper-plane
+#   icon_pack: fas
+#   link: '/contact'
 - icon: comments
   icon_pack: fab
   link: https://matrix.to/#/@kidwellj:matrix.org
@@ -73,6 +70,6 @@ email: "j.kidwell@bham.ac.uk"
 # - Visitors
 ---
 
-I am an interdisciplinary scholar, trained in ethics and constructive theology based in the [School of Philosophy, Theology and Religion](http://www.birmingham.ac.uk/schools/ptr/index.aspx) at the [University of Birmingham](http://www.birmingham.ac.uk/). I give regular [talks, workshops, and seminars](talks/) on topics like [climate change](posts/summary_env_writing/), data ethics, and design. I am passionate about building the commons - and am an advocate for open source, open data, and open educational resources.
+I am an interdisciplinary scholar, trained in ethics and constructive theology based in the [School of Philosophy, Theology and Religion](http://www.birmingham.ac.uk/schools/ptr/index.aspx) at the [University of Birmingham](http://www.birmingham.ac.uk/). I give regular [talks, workshops, and seminars](event/) on topics like [climate change](https://blog.jeremykidwell.info/2019/02/catch-up-christian-environmentalism-and-public-policy/), data ethics, and design. I am passionate about building the commons - and am an advocate for open source, open data, and open educational resources.
 
 In my [research](publication/), I confront the ecological crisis by interrogating the ethical issues that lie at the intersection of “nature” and “culture” ranging from ecological ethics, activist studies, religious conceptions of labour and the philosophy of technology. I work in the mode of a field philosopher allowing an ethnographic and quantitatively generated understanding of grassroots problems and interests to illuminate my constructive ethical reflections.

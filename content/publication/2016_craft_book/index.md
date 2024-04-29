@@ -3,10 +3,10 @@ title: "The Theology of Craft and the Craft of Work: From Tabernacle to Eucharis
 date: 2016-01-01
 publishDate: 2020-05-03T19:08:46.339817Z
 authors: ["jeremy"]
-publication_types: ["5"]
-abstract: ""
+publication_types: ["book"]
+abstract: "I draw upon design theory to probe the anthropology of work in the ancient near east, biblical exgesis and theological ethics around the concept of political economy and work."
 featured: true
-publication: "*Ashgate*"
+publication: "*Routledge (2016)*"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
