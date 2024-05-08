@@ -4,12 +4,12 @@
 title: "Spotlight - How people of colour experience and engage with climate change in Britain. Topline findings from a national survey conducted in March 2022"
 authors: 
   - Charles Ogunbode
-  - "jeremy"
   - Nick Anim
+  - "jeremy"
   - Amiera Sawas
   - Seryna Solanki
 date: 2023-10-01
-# doi: "10.1093/ia/iiz255"
+doi: "10.5281/zenodo.11130201"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-10-04T19:12:07+01:00
@@ -43,9 +43,9 @@ featured: true
 
 url_pdf:
 url_code: "https://github.com/climate-experiences/spotlight-report"
-url_dataset:
+url_dataset: "https://zenodo.org/records/11130201"
 url_poster:
-url_project:
+url_project: "https://jeremykidwell.info/project/spotlight/"
 url_slides:
 url_source:
 url_video:
