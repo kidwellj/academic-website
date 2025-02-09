@@ -1,9 +1,9 @@
 ---
-title: "Teaching Ethics in a Climate Emergency"
+title: "Personal knowledge: teaching place-based religious ethics for our climate emergency"
 authors: 
   - "jeremy"
-date: 2024-04-25
-# doi: "10.1093/ia/iiz255"
+date: 2024-05-28
+doi: "10.1080/03057240.2024.2362996"
 tags:
  - education
  - ecology
@@ -25,7 +25,7 @@ publication_types: ["article-journal"]
 publication: "Journal of Moral Education"
 publication_short: ""
 
-abstract: ""
+abstract: "In this article, I analyse ways that the modern depersonalisation of knowledge production has contributed to breakdown in climate change education, and by extension, prevented moral and religious education from taking on a more ecological dimension. I draw on analysis by indigenous scholars which focusses on an indigenous re-personalising of science in order to make a case for a form of religious, moral and values education as an explicitly ecological pursuit, which arises from situated personal forms of knowledge. I argue that the work of re-personalising teaching and learning also requires educators to confront problems embedded in the models of ethics, values and belief which underpin our pedagogical approaches, particularly the unexpectedly problematic idea of ‘world religions’ and related binary conceptions of knowledge that have emerged from specific Christian lineages. By reconfiguring pedagogy we can pursue more holistic approaches that can in turn help us to overcome depersonalized (and colonial) forms of knowledge production of knowledge and connect more intimately with the ecologies that sustain creaturely life."
 
 # Summary. An optional shortened abstract.
 summary: ""
