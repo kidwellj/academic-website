@@ -11,6 +11,8 @@ address:
   country: "United Kingdom"
 summary: ""
 url_slides: "slides/presentation-20250210-ND_researchers/nd_researcher_workshop.pptx"
+url_video: "https://www.youtube.com/watch?v=GFRz-i1_Fr0"
+
 tags:
   - neurodivergence
 ---
