@@ -10,7 +10,7 @@ address:
   postcode:
   country: "United Kingdom"
 summary: ""
-url_slides: ""
+url_slides: "talk/autism-research-conference/slides_kidwell.pptx"
 tags:
   - neurodivergence
 ---

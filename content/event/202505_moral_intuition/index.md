@@ -11,9 +11,10 @@ address:
   country: "United Kingdom"
 summary: ""
 url_slides: ""
+url_video: "https://youtu.be/wRuWECqc7_s"
 tags:
   - phenomenology
   - intuition
 ---
 
-Co-hosted with Dr. Ema Sullivan-Bisset and funded by the Institute for Advanced Studies at the University of Birmingham, this workshop explored elements of non-rational moral reasoning and moral education.
+Co-hosted with Dr. Ema Sullivan-Bisset and funded by the Institute for Advanced Studies at the University of Birmingham, this workshop explored elements of non/a-rational moral reasoning and moral education.
