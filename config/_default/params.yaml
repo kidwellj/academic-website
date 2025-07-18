@@ -20,15 +20,9 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'A personal academic website for Dr. Jeremy Kidwell'
-    twitter: 'kidwellj'
+    twitter: ''
   analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
   verification:
-    google: ''
-    baidu: ''
 
 # Site header
 
