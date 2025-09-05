@@ -10,7 +10,7 @@ address:
   postcode:
   country: "United Kingdom"
 summary: ""
-url_slides: "talk/file.pptx"
+url_slides: "talk/slides.pptx"
 url_video: ""
 url_pdf: "https://zenodo.org/records/17062922"
 tags:
