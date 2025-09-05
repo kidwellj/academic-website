@@ -1,0 +1,86 @@
+---
+date: 2023-06-06T09:00:00+01:00
+title: "Neurodiversity, Learning and Support in Philosophy at the University of Birmingham"
+location: "University of Birmingham"
+publishDate: 2022-01-01T19:46:37+01:00
+address:
+  street: ""
+  city: ""
+  region:
+  postcode:
+  country: "United Kingdom"
+summary: ""
+url_slides: "talk/philosophy_and_neurodivergence.pptx"
+url_video: ""
+tags:
+  - neurodivergence
+---
+
+This is a talk I provided to academic colleagues as School EDI lead on connecting with neurodivergent students (and ourselves). It has a philosophy-specific angle, but covers ground that should be broadly relevant to ND teaching, and also includes some in-depth work I've done on HESA data regarding disability disclosure, which is eye opening.
+
+
+I also included a handout with some extended excerpts from Devon Price's wonderful book "Unmasking" (which are reproduced below):
+
+
+# 1
+
+Autism is *neurological*. Autism is a developmental disability that runs in families and appears to be largely genetically heritable. However, it is also multiply determined, meaning it has no single cause: a whole host of different genes appear to be associated with Autism, and every Autistic person’s brain is unique and exhibits its own distinct patterns of connectivity. Autism is a developmental disability because compared to neurotypical milestones, it comes with delays: many Autistic people continue to grow in their social and emotional skills for much later in life than allistics tend to. (However, this may be due to the fact that Autistic people are forced to develop our own social and emotional coping skills from scratch, because the neurotypical methods taught to us don’t suit how we process information—more on this later.) Autism is associated with specific and pervasive differences in the brain, which result in us diverging from neurotypical standards, in terms of how our brains filter and make sense of information.
+
+- We are hyperreactive to even small stimuli in our environment
+- We have trouble distinguishing between information or sensory data that should be ignored versus data that should be carefully considered
+- We are highly focused on details rather than “big picture” concepts
+- We’re deeply and deliberatively analytical
+- Our decision-making process is methodical rather than efficient; we don’t rely on mental shortcuts or “gut feelings”
+- Processing a situation takes us more time and energy than it does for a neurotypical person”
+
+
+# 2
+
+*Autism is associated with a deliberative processing style*. When making sense of the world, Autistic people usually defer to logic and reason rather than emotion or intuition. We dive deep into all the pros and cons, sometimes excessively so, not knowing where to draw the line between an important variable and an unimportant one. We tend not to get habituated to familiar situations or stimuli as readily as other people, so we often think through a situation as if it’s completely new to us, even if it isn’t. All of this requires a lot of energy, focus, and time, so we get exhausted and overloaded quite easily. However, it also makes us less prone to errors. Experimental research shows that Autistic people are far less susceptible to the biases allistic people commonly fall prey to.
+
+# 3
+
+Autistic people process the world from the bottom up. If you want to understand Autism as a disability and a source of human difference at a glance, it’s best summed up this way: we process in a careful, systematic, bottom-up way. Allistic folks, in contrast, make sense of the world in a very top-down fashion. They’ll enter a new environment, such as an unfamiliar restaurant, take a quick look around, and jump to reasonable conclusions about how to order, where to sit, what kind of service to expect, and even how loudly they should talk. Their brains will immediately begin to filter through sounds, lights, and other stimuli, and adjust accordingly. They might notice a clanging pinball machine in the corner for a moment, for instance, but soon habituate to it, and become able to ignore it. When the waiter approaches, they probably can chat without much difficulty, even if something unexpected gets said or the item they planned to order is sold out. They don’t rely on memorized conversational scripts, and they don’t have to carefully parse every single piece of data they encounter to make sense of it. They can wing it.
+
+Autistic people, on the flip side, don’t rely on knee-jerk assumptions or quick mental shortcuts to make our decisions. We process each element of our environment separately, and intentionally, taking very little for granted.
+
+# 4
+
+Autism touches every part of the Autistic person’s life. Of course, many non-Autistic people might resonate with some of the feelings and sensations I just described. There’s a difference between being allistic (which simply means non-Autistic) and being fully neurotypical (which means lacking any mental illness or cognitive disability). An allistic person with a social anxiety disorder may also feel overwhelmed in busy bars and restaurants, just as Autistic people do. Someone with post-traumatic stress disorder may similarly be rattled by a noisy pinball machine. The difference between Autism and these other disorders, however, is that Autism is a cognitive and sensory difference that affects every area of life. You wouldn’t expect a socially anxious person to get overwhelmed by the sound of a clanking radiator when they’re alone at home, for example (unless they’re also Autistic or have a sensory processing disorder).
+
+Because the neural and cognitive features of Autism are so pervasive, it affects almost every aspect of a person’s body and brain. It’s related to coordination and muscle tone, the ability to read emotions on people’s faces, communication skills, reaction time, and even how a person recognizes feelings of pain or hunger. When I look at a person’s face, I don’t simply see “happiness” or “sadness” radiating off them, for example; I see minute changes in their eyes, forehead, mouth, breathing, and posture, which I then have to effortfully piece together to make an informed guess about how they feel. Often, it’s too much discordant data to make sense of. When I don’t have the energy to carefully process others’ emotional expressions, people are inscrutable to me and arouse a lot of anxiety.
+
+Autism can influence how intensely we focus on an activity, and how we perceive textures, tastes, and sounds. Autism can predispose a person to having fanatical interests (often referred to as special interests) and to following rules very rigidly. Many of us have trouble identifying sarcasm or reading nonverbal signals. Disruptions to our routines or expectations can make us panic. Learning new skills may take us far longer than other people.”
+
+# 5
+
+“Autism is behavioral. Autism is associated with repetitive self-stimulatory behavior (“stimming”), which can be something as benign as hand-flapping, or as severe as chewing one’s fingers until they bleed. Stimming is an important means of self-regulation. It helps soothe us when we’re anxious or overloaded with stress, and it helps us express joy and enthusiasm. There are a variety of ways to stim, and stimming can make use of any of the five senses. Some of us stim using echolalia, the repeating of words, sounds, or phrases that feel good vibrating in our throats. Others stim by engaging the body’s proprioceptive system (the neural system that tracks the body’s physical movement) by jumping up and down or swaying in place. Sucking on candy, smelling scented candles, staring at lava lamps, listening to recordings of rain and thunder—all of these activities can be stims. All humans stim to an extent (if they didn’t, fidget spinners wouldn’t have become so popular several years ago), but Autistic people stim more frequently, more repetitively, and more intensely than neurotypicals do.
+
+Repetitiveness is a key feature of Autistic behavior, according to the Diagnostic and Statistical Manual of Mental Disorders (the DSM). And it is true that many of us crave the stability that repetition provides. Because we find the external social world so unpredictable, most of us prefer consistent routines.”
+
+# 6
+
+“Autistic people are at risk”... “Autistic people are at a high risk of violence, as well as negative mental health outcomes.”
+
+Autism is also highly correlated with physical symptoms such as gastrointestinal issues, connective tissue disorders, and seizures largely for genetic reasons. It co-occurs with other disabilities such as Attention Deficit Hyperactive Disorder (ADHD) and dyslexia at a high rate. Many Autistic people have trauma histories and post-traumatic stress symptoms, and as I’ve already mentioned, a lifetime of masking puts us at a high risk of conditions like depression and anxiety.
+
+
+# 7
+
+“Autism is a neurodivergence. Autism is a type of functioning (or a neurotype) that differs from what psychology defines as normative or neurotypical (NT). Autism is a particularly diverse and varied form of neurodivergence; there are just so many ways in which we are punished for deviating from the norm. Every case of Autism is a bit different, and traits can present in seemingly contradictory ways. Some Autistic people can’t speak; others are incredibly hyperverbal from a young age, with huge vocabularies. Some Autistics can read people’s emotions so easily that it’s overwhelming; others empathize with animals or objects, but not people; some of us have zero emotional empathy. But all of us are full-formed humans with a capacity to care for others and behave ethically. Some Autistic people have no “special interests”; others are fanatical about dozens of subjects. Some of us have skills we are adept at; others need help in every facet of our existence. What unites us, generally speaking, is a bottom-up processing style that impacts every aspect of our lives and how we move through the world, and the myriad practical and social challenges that come with being different.
+
+Since mainstream standards for behavior are so narrow, there are a variety of ways in which a person can diverge—and be punished for diverging. Having frequent panic attacks is a neurodivergence, as is exhibiting signs of an eating disorder. If you struggle in your close relationships because of attachment trauma or an inescapable fear of rejection, you’re neurodivergent too (you might also get stuck with a particularly stigmatizing label, such as Borderline Personality Disorder).
+Almost anyone can be viewed as defective or abnormal under our current medicalized model of mental illness—at least during particularly trying periods of their lives when they are depressed or their coping breaks down. In this way, neurotypicality is more of an oppressive cultural standard than it actually is a privileged identity a person has. Essentially no one lives up to neurotypical standards all of the time, and the rigidity of those standards harms everyone. Much as heteronormativity harms straight and queer folks alike, neurotypicality hurts people no matter their mental health status.
+Autism is just one source of neurodiversity in our world. The term neurodiverse refers to the wide spectrum of individuals whose thoughts, emotions, or behaviors have been stigmatized as unhealthy, abnormal, or dangerous.”
+
+# 8
+
+“Autism is diverse. Though the neurological and mental features of Autism cut across a wide swathe of people, the way it presents is always a bit different. In fact, Autistic traits can manifest in downright paradoxical ways. At times, I can be so intensely focused on a task (such as reading or writing) that the rest of the world entirely drops away. When I’m hyperfixating, I fail to notice things like someone speaking to me or smoke filling the room because I forgot to turn the oven off. At other times, I’m an anxious and distractible wreck, unable to make my way through a single sentence of a book because my pet chinchilla is hopping around in his cage and making the bars rattle. These two very disparate responses have the same root cause: the overexcitability of Autistic people’s neurons and the inconsistent way that we filter stimuli (at least compared to allistics). We tend to be both easily disturbed by sound in our environment, and unable to tell when a noise actually merits our attention, at the same time. I often brute-force my way into paying attention to something by shutting the rest of the world out. I think it’s also likely that lifelong masking has rendered me hypervigilant, almost as a trauma response. My sensory system is used to scanning the environment, to determine whether I’m alone and thus “safe” enough to be myself. Trauma survivors often become hypervigilant, which tends to come with intense sensory issues. Some researchers have also theorized that sensory issues in Autistics are, at least in part, caused by the anxiety and hypervigilance we experience from living in a world that doesn’t accommodate us, and often treats us with hostility.
+
+Most people have heard that Autism is a spectrum, and it’s really true: each of us has a unique constellation of traits and features, all at various degrees of intensity. Some people are also subclinically Autistic, meaning they might not qualify for an official diagnosis, in the eyes of psychiatrists, but share enough struggles and experiences with us that they belong in the community. Relatives of diagnosed Autistic people, for example, frequently are found to exhibit subclinical traits. Of course, what’s considered to be “subclinical” is often more a function of a person’s ability to hold down a job and conform to societal rules than it is a reflection of how much they are suffering.
+
+“Everybody is a little bit Autistic,” is a common refrain that masked Autistic people hear when we come out to others. This remark can feel a bit grating to hear, because it feels like our experiences are being downplayed. It’s similar to when bisexual people get told that “everybody is a little bit bi.” When most people make remarks like these, they’re implying that because our difference is so universal, we can’t actually be oppressed for it, and should just shut up about it.
+
+However, I do think that when allistic people declare that everyone is a little Autistic, it means they are close to making an important breakthrough about how mental disorders are defined: why do we declare some people broken, and others perfectly normal, when they exhibit the exact same traits? Where do we draw the line, and why do we even bother doing so? If an Autistic person benefits from more flexibility at work, and more social patience, why not extend those same benefits to everybody? Autistic people are a normal part of humanity, and we have qualities that can be observed in any other non-Autistic human. So yes, everyone is a little bit Autistic. That’s all the more reason to broaden our definition of what is deserving of dignity and acceptance.
+
+Autism can appear in any person, regardless of their age, class, gender, race, or other disability status. Despite the incredible diversity of Autism and Autistic people, the average person (and even many mental health professionals) has a singular image of Autism in their minds. You might some times hear this called “typically presenting” Autism, though that’s really a misnomer. It’s more like stereotypical Autism.
